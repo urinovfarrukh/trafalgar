@@ -1,0 +1,251 @@
+/* body{
+  width: 1247px;
+} */
+.box-logo{
+  display: flex;
+  /* justify-content: space-evenly; */
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+a{
+  text-decoration: none;
+}
+
+
+
+.healthcare-box{
+  display: flex;
+  justify-content: space-between;
+  /* width: 1247px; */
+  margin-bottom: 113px;
+}
+
+.healthcare-text{
+  width: 445px;
+}
+
+.haus{
+  color: black;
+}.nav-list{
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.nav-items{
+  margin-left: 25px;
+}
+.heading{
+  width: 426px;
+  font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+/* or 117% */
+
+
+color: #000000;
+}
+/* 2-qism */
+
+.services-box{
+width: 1120px;
+margin-bottom: 220px;
+}
+.services-h2{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 26px;
+  /* identical to box height, or 156% */
+  
+  
+  color: #000000;
+  ;
+}
+.services-hr{
+  /* position: absolute; */
+  text-align: center;
+  width: 56px;
+  height: 2px;
+  }
+.services-text{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  width: 952px;
+  color: #7D7987;
+  margin-left: 323px;
+  margin-right: 325px;
+
+}
+.sevices-boxing{
+  /* display: flex; */
+
+}
+.sevices-ul{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.sevices-h3{
+  font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+/* identical to box height, or 233% */
+
+
+color: #000000;
+}
+
+.sevices-content{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  color: #7D7987;
+  width: 266px;
+  /* margin: 0;
+  margin-right: ; */
+
+}
+.sevices-link{
+  width: 200px;
+  border: solid 1.5px blue;
+  border-radius: 10px;
+  /* text-align: center; */
+  margin-left: 500px;
+  
+}
+
+
+
+
+.providers{
+  width: 1273px;
+  display: flex;
+  text-align: center;
+  margin-bottom: 265px;
+}
+
+.providers-img{
+  width: 650px;
+  height: 477px;
+  margin-right: 137px;
+  margin-left: 135px;
+}
+.providers-box{
+  width: 486px;
+  /* margin-right: 192px; */
+}
+.providers-heading{
+  width: 481px;
+  margin: 0;
+  margin-bottom: 26px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+}
+.providers-hr{
+width: 56px;
+height: 2px;
+margin: 0;
+margin-bottom: 31px;
+}
+.providers-content{
+  width: 450px;
+  margin-bottom: 37px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7D7987;
+
+}
+.providers-link{
+  width: 98px;
+  border: solid 1.5px #458FF6;
+  border-radius: 10px;
+  font-family: 'Mulish';
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  color: #458FF6;
+}
+
+
+/* 3-qism */
+
+
+.download{
+  width: 1365px;
+  display: flex;
+}
+.download-box{
+  width: 420px;
+  /* margin-left: 200px; */
+  margin-left: 71px;
+}
+
+.download-h2{
+width: 254px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+/* or 133% */
+
+
+color: #000000;
+}
+.download-hr{
+width: 52px;
+}
+.download-text{
+  width: 420px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+
+
+  color: #7D7987;
+}
+.download-link{
+  width: 200px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 60px;
+  /* or 333% */
+
+  display: flex;
+  align-items: center;
+
+  color: #458FF6;
+}
+.download-img{
+
+}
